@@ -1,6 +1,6 @@
 # 👩‍💻 Priyanka Uppalapati - Full Stack Developer
 
-Hi, I'm **Priyanka Uppalapati** 👋, a passionate Full Stack Developer with expertise in **Java**, **JavaScript**, **SQL**, and dynamic web development. I specialize in creating scalable, efficient, and user-friendly applications. Currently, I am building web apps with **React**, **TypeScript**, and **Tailwind CSS**, with an aim to contribute to impactful, data-driven applications.
+Hi, I'm **Priyanka Uppalapati** 👋, a passionate Full Stack Developer with expertise in **Java**, **JavaScript**, **SQL**, and dynamic web development. I specialize in creating scalable, efficient, and user-friendly applications. Currently, I am building web apps with **React**, **TypeScript**, and **Tailwind CSS**, aiming to contribute to impactful, data-driven applications.
 
 ![Profile Picture](link-to-image)  *(Optional)*
 
@@ -19,12 +19,15 @@ Hi, I'm **Priyanka Uppalapati** 👋, a passionate Full Stack Developer with exp
 
 ## 👩‍💻 About Me
 
-I'm a **Full Stack Developer** with expertise in both **frontend** and **backend** technologies. I recently completed my **Master of Computer Applications (MCA)** from **Vikrama Simhapuri University**, and I'm continuously working on improving my skills. I enjoy collaborating on innovative projects and creating seamless, data-driven applications.
+I'm a **Full Stack Developer** with expertise in both **frontend** and **backend** technologies. I recently completed my **Master of Computer Applications (MCA)** from **Vikrama Simhapuri University**, and I'm continuously improving my skills through hands-on projects. I thrive in collaborative environments and enjoy working on innovative, impactful solutions.
 
-💡 **Skills include**:
-- Building **responsive user interfaces** with **React** and **Tailwind CSS**
-- Developing **robust backend** systems with **Java**, **SQL**, and **Node.js**
-- Crafting **dynamic web applications** with **React**, **TypeScript**, and **LocalStorage**
+### 💡 **Skills & Expertise**:
+- **Frontend Development**: Crafting responsive and user-friendly interfaces using **React**, **JavaScript**, and **Tailwind CSS**.
+- **Backend Development**: Building robust systems with **Java**, **Node.js**, and **SQL databases**.
+- **Tools & Frameworks**: Working with **Git**, **TypeScript**, **Express.js**, **Docker**, and **GraphQL** for efficient, scalable solutions.
+- **Problem-Solving**: Love tackling complex challenges and breaking them down into manageable solutions.
+
+I am passionate about creating modern, data-driven applications that solve real-world problems. 💻
 
 ---
 
@@ -35,7 +38,7 @@ I'm a **Full Stack Developer** with expertise in both **frontend** and **backend
   *October 2022 - August 2024*  
   CGPA: **8.07**
 
-  Key Courses:
+  **Key Courses**:
   - Advanced Database Management
   - Web Technologies
   - Software Engineering
@@ -46,7 +49,7 @@ I'm a **Full Stack Developer** with expertise in both **frontend** and **backend
   *May 2019 - August 2022*  
   CGPA: **9.0**
 
-  Achievements:
+  **Achievements**:
   - 🏆 Academic Excellence Award
   - 🤖 Technical Club Member
   - 🎯 Programming Competition Winner
@@ -65,15 +68,16 @@ I'm a **Full Stack Developer** with expertise in both **frontend** and **backend
 
 ## 💻 Skills
 
-### 🚀 Technical Skills
-- **Languages**: Java (90%), JavaScript (85%), SQL (88%), React (82%), C (75%)
-- **Tools & Technologies**: Git, TypeScript, Tailwind CSS
-
-### 🤝 Soft Skills
-- Problem Solving (95%)
-- Team Collaboration (90%)
-- Communication (85%)
-- Adaptability (88%)
+### 🚀 **Technical Skills**
+- **Languages**: 
+  ![Java](https://img.shields.io/badge/Java-%23F7DF1E?style=flat&logo=java&logoColor=white)  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=white)  
+  ![SQL](https://img.shields.io/badge/SQL-%23F7DF1E?style=flat&logo=sqlite&logoColor=white)  
+  ![React](https://img.shields.io/badge/React-%23F7DF1E?style=flat&logo=react&logoColor=white)  
+  ![TypeScript](https://img.shields.io/badge/TypeScript-%23F7DF1E?style=flat&logo=typescript&logoColor=white)  
+- **Tools**:  
+  ![Git](https://img.shields.io/badge/Git-%23F7DF1E?style=flat&logo=git&logoColor=white)  
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%23F7DF1E?style=flat&logo=tailwindcss&logoColor=white)
 
 ---
 
@@ -83,33 +87,45 @@ Here are some of the projects I've worked on. Feel free to explore:
 
 ### 1. 🕰️ **Digital Clock**
 - A customizable digital clock with multiple time zones.
-- **Tech**: React, TypeScript, Tailwind CSS
-- [View Code](#) | [Live Demo](#)
+- **Tech**: React, TypeScript, Tailwind CSS  
+  **Progress**: ![Progress](https://img.shields.io/badge/Progress-100%25-green)
+
+[View Code](#) | [Live Demo](#)
 
 ### 2. ⚖️ **BMI Calculator**
 - Calculate and track BMI with health recommendations and history tracking.
-- **Tech**: React, TypeScript, LocalStorage
-- [View Code](#) | [Live Demo](#)
+- **Tech**: React, TypeScript, LocalStorage  
+  **Progress**: ![Progress](https://img.shields.io/badge/Progress-95%25-yellow)
+
+[View Code](#) | [Live Demo](#)
 
 ### 3. 💰 **Tip Calculator**
 - Calculate tips and split bills easily with a clean, intuitive interface.
-- **Tech**: React, TypeScript, Tailwind CSS
-- [View Code](#) | [Live Demo](#)
+- **Tech**: React, TypeScript, Tailwind CSS  
+  **Progress**: ![Progress](https://img.shields.io/badge/Progress-100%25-green)
+
+[View Code](#) | [Live Demo](#)
 
 ### 4. 🎉 **Age Calculator**
 - Calculate exact age with years, months, and days, including special date features.
-- **Tech**: React, TypeScript, Date API
-- [View Code](#) | [Live Demo](#)
+- **Tech**: React, TypeScript, Date API  
+  **Progress**: ![Progress](https://img.shields.io/badge/Progress-90%25-orange)
+
+[View Code](#) | [Live Demo](#)
 
 ### 5. ⏳ **Countdown Timer**
 - A customizable countdown timer with multiple presets and notifications.
-- **Tech**: React, TypeScript, Tailwind CSS
-- [View Code](#) | [Live Demo](#)
+- **Tech**: React, TypeScript, Tailwind CSS  
+  **Progress**: ![Progress](https://img.shields.io/badge/Progress-100%25-green)
+
+[View Code](#) | [Live Demo](#)
 
 ### 6. ⌨️ **Typing Speed Test**
 - Test typing speed with various text samples and detailed statistics.
-- **Tech**: React, TypeScript, LocalStorage
-- [View Code](#) | [Live Demo](#)
+- **Tech**: React, TypeScript, LocalStorage  
+  **Progress**: ![Progress](https://img.shields.io/badge/Progress-85%25-red)
+
+[View Code](#) | [Live Demo](#)
 
 ---
 
